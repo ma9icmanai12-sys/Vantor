@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+*.tgz
+.vite/
+.prettierrc
+geolibre-plugin/dist/
+geolibre-plugin/*.zip
